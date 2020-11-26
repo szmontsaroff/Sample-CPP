@@ -1,0 +1,35 @@
+~$*
+Unemployment/
+*.tmp
+a.pdf
+a.txt
+~$ta-StephenMontsaroff.doc
+~$ta-StephenMontsaroffRes.doc
+~$tterScience.doc
+~WRL1323.tmp
+~WRL3127.tmp
+*.wbk
+Backup of*
+Ignore/LicensesAndLegal
+Unemployment/
+Unemployment
+Ignore/
+LicensesAndLegal
+Training
+Wrk
+Backup of*.wbk
+Projects
+*Junction*
+*- Copy.*
+Backup of*
+**/venv/*
+*.ics
+**/.idea/***/__pycache__/* 
+*.tmp  
+fred*  
+__pycache/  
+ __pycache__/  
+Deubg/
+.vs/
+**/Deubg/
+Release/
